@@ -1,0 +1,23 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .square {
+    box-sizing: border-box;
+    width: calc(100vh - 80px);
+    height: calc(100vh - 80px);
+  }
+  
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  @media (orientation: portrait) {
+    .square {
+      box-sizing: border-box;
+      width: calc(100% - 80px);
+      height: calc(100vw - 80px);
+    }
+  }
+  
