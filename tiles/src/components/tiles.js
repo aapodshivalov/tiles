@@ -4,7 +4,7 @@ import { getInitialData } from "../App";
 const getMapArr = (n) => {
   return Array(n)
     .fill(0)
-    .map((el) => []);
+    .map(() => []);
 };
 function reducer(state, action) {
   switch (action.type) {
@@ -22,7 +22,7 @@ function reducer(state, action) {
         openedTiles: [
           ...Array(action.value.openedTiles.length)
             .fill(0)
-            .map((el) => [])
+            .map(() => [])
         ]
       };
     default:
@@ -127,9 +127,9 @@ export default function Tiles({ initial, options }) {
       </span>
       <table className="square center">
         <tbody>
-          {row.fill(0).map((_, ind0) => (
+          {row.map((_, ind0) => (
             <tr key={ind0}>
-              {col.fill(0).map((_, ind1) => (
+              {col.map((_, ind1) => (
                 <td
                   key={ind1}
                   style={{
