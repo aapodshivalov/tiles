@@ -6,7 +6,7 @@ https://codesandbox.io/s/confident-pasteur-jutrp
 
 ### Test task for front-end middle developer vacancy
 
-https://docs.google.com/document/d/19Viqi1MR4PJ9s07NJ0Hd5nU_6BuQkwzWj_JJbA6JCDo/edit?usp=sharing
+https://docs.google.com/document/d/1wugV1uPuylAEFXsVd3-KCct9eXvCjCuSOzejTa3oHUI
 
 Description: 
 The page consists of a board of tiles (default 4x4). 
