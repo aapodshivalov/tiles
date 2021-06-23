@@ -4,10 +4,9 @@ https://aapodshivalov.github.io/tiles/
 https://codesandbox.io/s/confident-pasteur-jutrp
 
 
-### Task
-https://docs.google.com/document/d/1wugV1uPuylAEFXsVd3-KCct9eXvCjCuSOzejTa3oHUI/edit
+### Test task for front-end middle developer vacancy
 
-Test task for front-end developer vacancy
+https://docs.google.com/document/d/19Viqi1MR4PJ9s07NJ0Hd5nU_6BuQkwzWj_JJbA6JCDo
 
 Description: 
 The page consists of a board of tiles (default 4x4). 
